@@ -40,8 +40,7 @@ I’m continuously learning and exploring ways to optimize data pipelines and au
 
 ---
 
-<img src="<img src="https://raw.githubusercontent.com/mmagdyy1/mmagdyy1/output/snake.svg" alt="Snake animation" />
-" />
+<img src="https://raw.githubusercontent.com/mmagdyy1/mmagdyy1/output/snake.svg" alt="Snake animation" />
 
 ---
 
